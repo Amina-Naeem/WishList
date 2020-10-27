@@ -1,0 +1,40 @@
+<?php
+return [
+    'language-menu'=>'语言',
+    'register-menu'=>'寄存器',
+    'login-menu'=>'登錄',
+    'email-menu'=>'電子郵件地址',
+    'password'=>'密碼',
+    'name'=>'名稱',
+    're-password'=>'確認密碼',
+    'logout-menu'=>'登出',
+    'WelcomeBack'=>'歡迎回來！',
+    'WelcometoWishlist'=>'歡迎來到 WishList',
+    'YouareLoggedIn'=>'您已登錄',
+    'createAccount'=>'創建一個帳戶',
+    'alreadyhaveanAccount'=>'已經有一個帳戶？',
+    'details'=>'細節',
+    'delete'=>'刪除',
+    'update'=>'更新',
+    'makenewWish'=>'做新的願望',
+    'no'=>'數',
+    'id'=>'身分證',
+    'wish'=>'希望',
+    'fulfilled'=>'完成',
+    'action'=>'行動',
+    'createdAt'=>'創建於',
+    'yes'=>'是',
+    'nope'=>'沒有',
+    'other'=>'其他',
+    'back'=>'背部',
+    'addaWish'=>'添加一個願望',
+    'idExist'=>'希望ID存在',
+    'created'=>'願望已成功創建',
+    'updated'=>'願望已成功更新',
+    'deleted'=>'願望已成功刪除
+',
+    'welcomeMSG'=>'WishList允許您以列表的形式添加您的願望。一旦您成為願望清單的註冊用戶，就可以檢查您的願望的詳細信息，對其進行更新，也可以將其從記錄中刪除。
+                                        對於每一個願望，都需要一個唯一的ID，如果出現問題，則會提示錯誤消息，以便用戶同時進行更改。',
+
+]
+    ;
